@@ -74,20 +74,20 @@ function handler_request_reply(txt) {
             name.textContent = '自分'
             
 
-            console.log(faceImg2.src);
-            if(faceImg2.src === 'http://127.0.0.1:5500/images/1.jpg'){
+ 
+            if(faceImg2.src === 'https://3web4.github.io/chatbot/images/1.jpg'){
                 name2.textContent='橋本環奈'
-            } else if(faceImg2.src === 'http://127.0.0.1:5500/images/2.jpg') {
+            } else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/2.jpg') {
                 name2.textContent='石原さとみ'
-            } else if(faceImg2.src === 'http://127.0.0.1:5500/images/3.jpg') {
+            } else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/3.jpg') {
                 name2.textContent='広瀬すず'
-            } else if(faceImg2.src === 'http://127.0.0.1:5500/images/4.jpg') {
+            } else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/4.jpg') {
                 name2.textContent='浜辺美波'
-            } else if(faceImg2.src === 'http://127.0.0.1:5500/images/5.jpg') {
+            } else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/5.jpg') {
                 name2.textContent='新垣結衣'
-            } else if(faceImg2.src === 'http://127.0.0.1:5500/images/6.jpg') {
+            } else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/6.jpg') {
                 name2.textContent='吉岡里帆'
-            } else if(faceImg2.src === 'http://127.0.0.1:5500/images/7.jpg') {
+            } else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/7.jpg') {
                 name2.textContent='佐々木希'
             }
 
