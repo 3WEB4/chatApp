@@ -72,8 +72,9 @@ function handler_request_reply(txt) {
             faceImg2.setAttribute('src', items[random]);
             talk__Me.appendChild(name)
             name.textContent = '自分'
+            
 
-
+            console.log(faceImg2.src);
             if(faceImg2.src === 'http://127.0.0.1:5500/images/1.jpg'){
                 name2.textContent='橋本環奈'
             } else if(faceImg2.src === 'http://127.0.0.1:5500/images/2.jpg') {
