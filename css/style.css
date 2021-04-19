@@ -26,7 +26,7 @@ img {
 
 #form {
     position: fixed;
-    background: #ffff;
+    background: rgb(255, 254, 254);
     max-width: 600px;
     width: 100%;
     bottom: -80px;
