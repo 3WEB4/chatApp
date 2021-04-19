@@ -6,6 +6,12 @@ body {
     background: #98b9eb;
 }
 
+@media only screen and (min-width: 797px) {
+    body {
+        background: #ffff;
+    }
+  }
+
 img {
     width: 100%;
 }
