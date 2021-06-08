@@ -68,7 +68,7 @@ function handler_request_reply(txt) {
             talk__Reply.appendChild(name2)
             face.appendChild(faceImg)
             face2.appendChild(faceImg2)
-            faceImg.setAttribute('src', 'images/me.png');
+            faceImg.setAttribute('src', 'images/moe.jpg');
             faceImg2.setAttribute('src', items[random]);
             talk__Me.appendChild(name)
             name.textContent = '自分'
