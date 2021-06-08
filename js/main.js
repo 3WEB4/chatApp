@@ -89,6 +89,8 @@ function handler_request_reply(txt) {
                 name2.textContent='吉岡里帆'
             } else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/7.jpg') {
                 name2.textContent='佐々木希'
+            }else if(faceImg2.src === 'https://3web4.github.io/chatbot/images/moe.jpg') {
+                name2.textContent='もえちゃ〜〜ん！！'
             }
 
         
